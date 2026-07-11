@@ -1,0 +1,23 @@
+{
+  "background_color": "#000000",
+  "description": "Official website of Warex organisation",
+  "display": "standalone",
+  "icons": [
+    {
+      "purpose": "maskable",
+      "sizes": "192x192",
+      "src": "/favicon/web-app-manifest-192x192.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "maskable",
+      "sizes": "512x512",
+      "src": "/favicon/web-app-manifest-512x512.png",
+      "type": "image/png"
+    }
+  ],
+  "lang": "en-US",
+  "name": "Warex organisation",
+  "short_name": "Warex",
+  "theme_color": "#3da6a2"
+}
